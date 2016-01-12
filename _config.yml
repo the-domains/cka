@@ -1,0 +1,28 @@
+name: cka
+favicon: null
+layout_spectrum: 0.9639011966064572
+typography_spectrum: 0.38555068406276405
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.311043209861964
+  lightness: 0.6529166838154197
+  saturation: 0.6805506246164441
+  rhythmicContrast: 0.7258752619381994
+purpose: []
