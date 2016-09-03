@@ -1,19 +1,4 @@
-name: cka
-favicon: null
-layout_spectrum: 0.9639011966064572
 typography_spectrum: 0.38555068406276405
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -25,4 +10,20 @@ color:
   lightness: 0.6529166838154197
   saturation: 0.6805506246164441
   rhythmicContrast: 0.7258752619381994
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9639011966064572
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: cka
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Support the Athletes
 purpose: []
